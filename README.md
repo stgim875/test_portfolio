@@ -5,9 +5,12 @@
 
 사용된 개발 언어 및 프레임워크  : Python + Selenium + Appium
 - Selenium  : 4.20.0  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-- Appium-Python-Client : v3.1.1
+- Appium-Python-Client : v3.1.1 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white">
 - Python : 3.12.1  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  
+- Pytest: 8.0.0 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white">
+
+
+
 ### [VIRNECT Remote_Web UI 자동화]
 #### <코드와 내용이 변경될 수 있습니다.>
 
